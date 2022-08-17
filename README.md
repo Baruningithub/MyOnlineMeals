@@ -1,13 +1,13 @@
 # Food-Delivery-website
 This is a frontend based fully responsive website made of only HTML and CSS with very colorful and interactive techniques.
-This just a way to show the structure of a website wiyhout backend.
-A website where you can order delicious Jalebi Phapda 😊...
+This just a way to show the structure of a website without backend and specifications.
+A website where you can order your favourite food meals with fast 😊...
 
 
-![webss1](https://user-images.githubusercontent.com/95410218/184502404-cb2461ac-bb21-4f76-bfee-c56690e23559.PNG)
+![my1](https://user-images.githubusercontent.com/95410218/185184421-48686284-db43-45d0-939f-bf207909367e.PNG)
 
 
-![wss2](https://user-images.githubusercontent.com/95410218/184502545-aec947c3-4e53-4942-adfc-aabdd44c9507.PNG)
+![my2](https://user-images.githubusercontent.com/95410218/185185038-821e0e52-4bea-444e-ac87-fad620257170.PNG)
 
 
 
