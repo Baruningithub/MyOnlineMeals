@@ -19,10 +19,11 @@ A website where you can order your favourite food meals with fast 😊...
 
 #A view from a smartphone .......
 
-![pss1](https://user-images.githubusercontent.com/95410218/184502731-4283683e-5ef2-4106-b04e-dc7e303ddada.PNG)
+![myp1](https://user-images.githubusercontent.com/95410218/185185926-714ac0a2-d5c5-4cc8-97b3-3c2116c2c781.PNG)
 
 
-![pss2](https://user-images.githubusercontent.com/95410218/184502742-ad033d0b-7924-4bcd-91e9-5344c9ee259d.PNG)
+![myp2](https://user-images.githubusercontent.com/95410218/185186031-5b23f5a4-ca3f-461d-aa7f-600a5069689b.PNG)
+
 
 ![pss3](https://user-images.githubusercontent.com/95410218/184502749-938be0d5-1b60-41f7-b4e0-626959619082.PNG)
 
