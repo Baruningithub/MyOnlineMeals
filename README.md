@@ -18,17 +18,22 @@ A website where you can order your favourite food meals with fast 😊...
   
 
 #A view from a smartphone .......
+Iphone Se:
 
-![myp1](https://user-images.githubusercontent.com/95410218/185185926-714ac0a2-d5c5-4cc8-97b3-3c2116c2c781.PNG)
+![iphone](https://user-images.githubusercontent.com/95410218/185364514-0acbd38d-3195-4a61-b2bf-2665dfb7271b.PNG)
+
+Iphone 12 pro
+
+![i12](https://user-images.githubusercontent.com/95410218/185364639-7efd8903-7ce8-444b-a0d9-cf7d64a68f11.PNG)
+
+Ipad air
+
+![ipad](https://user-images.githubusercontent.com/95410218/185364732-395e18a4-9263-4c25-abed-e5c8e429ff2f.PNG)
 
 
-![myp2](https://user-images.githubusercontent.com/95410218/185186031-5b23f5a4-ca3f-461d-aa7f-600a5069689b.PNG)
 
 
-![pss3](https://user-images.githubusercontent.com/95410218/184502749-938be0d5-1b60-41f7-b4e0-626959619082.PNG)
 
-
-![myp3](https://user-images.githubusercontent.com/95410218/185186490-f8f0387a-619c-4f57-95ab-dec807954109.PNG)
 
 
 
