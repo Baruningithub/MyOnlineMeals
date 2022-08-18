@@ -1,7 +1,7 @@
 # Food-Delivery-website
 This is a frontend based fully responsive website made of only HTML and CSS with very colorful and interactive techniques.
 This just a way to show the structure of a website without backend and specifications.
-A website where you can order your favourite food meals with fast 😊...
+A website where you can order your favourite food meals 😊...
 
 
 ![my1](https://user-images.githubusercontent.com/95410218/185184421-48686284-db43-45d0-939f-bf207909367e.PNG)
