@@ -4,7 +4,8 @@ This just a way to show the structure of a website without backend and specifica
 A website where you can order your favourite food meals 😊...
 
 
-![my1](https://user-images.githubusercontent.com/95410218/185184421-48686284-db43-45d0-939f-bf207909367e.PNG)
+![newss](https://user-images.githubusercontent.com/95410218/185426830-204860c2-14e8-47ff-86d4-f14eea955982.PNG)
+
 
 
 ![my2](https://user-images.githubusercontent.com/95410218/185185038-821e0e52-4bea-444e-ac87-fad620257170.PNG)
