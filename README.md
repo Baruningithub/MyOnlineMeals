@@ -19,6 +19,7 @@ A website where you can order your favourite food meals 😊...
   
 
 #A view from a smartphone .......
+
 Iphone Se:
 
 ![iphone](https://user-images.githubusercontent.com/95410218/185364514-0acbd38d-3195-4a61-b2bf-2665dfb7271b.PNG)
